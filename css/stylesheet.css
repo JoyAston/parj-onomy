@@ -1,12 +1,21 @@
+img {
+  align-content: center;
+  padding: 10px 0px 10px 0px;
+  height: 400px;
+}
 h1 {
-  font-size: 60px;
+  font-size: 100px;
   color: white;
   font-family: "helvetica";
   text-align: center;
-  padding: 50px 0px 50px 0px;
+}
+
+header {
+  text-align: center;
 }
 
 ul li {
+  padding: 0px 10px 0px 10px;
   align-self: center;
   font-family: "helvetica";
   display: inline;
