@@ -1,5 +1,22 @@
 h1 {
   font-size: 60px;
-  color: blue;
-  font-family: "futura";
+  color: white;
+  font-family: "helvetica";
+  text-align: center;
+  padding: 50px 0px 50px 0px;
+}
+
+ul li {
+  align-self: center;
+  font-family: "helvetica";
+  display: inline;
+}
+
+a {
+  color: white;
+  font-size: 40px;
+}
+
+body {
+  background-color: black;
 }
