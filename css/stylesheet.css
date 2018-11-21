@@ -3,8 +3,8 @@ img {
   padding: 10px 0px 10px 0px;
   height: 400px;
 }
-background {
-  background-size: 200px 100px;
+body {
+  background-size: 1000px 2000px;
 }
 
 h1 {
