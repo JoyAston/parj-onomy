@@ -1,17 +1,10 @@
 img {
   align-content: center;
-  padding: 10px 0px 10px 0px;
-  height: 400px;
+  padding: 50px 0px 0px 0px;
+  height: 600px;
 }
 body {
-  background-size: 1000px 2000px;
-}
-
-h1 {
-  font-size: 100px;
-  color: white;
-  font-family: "helvetica";
-  text-align: center;
+  background-size: 1000px 1800px;
 }
 
 header {
@@ -27,7 +20,7 @@ ul li {
 
 a {
   color: white;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 body {
