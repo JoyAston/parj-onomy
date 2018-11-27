@@ -23,7 +23,7 @@ article {
 p {
   font-family: "helvetica";
   color: white;
-  padding: 10px 0px 0px 20px;
+  padding: 10px 20px 0px 20px;
 }
 
 div#navbarNav {
@@ -64,4 +64,10 @@ div#aboutus {
 
 .btn.btn-outline-light {
   color: pink;
+}
+
+div#spacenews {
+  color: white;
+  text-align: left;
+  margin: 10px 10px 10px 10px;
 }
