@@ -24,10 +24,13 @@ p {
   color:white;
   font-family: "helvetica";
   font-size: 20px;
+  text-align: left;
+  padding: 20px 0px 0px 20px;
 }
 
 .navbar-nav {
   text-align: center;
+  color: blue
 }
 
 body {
