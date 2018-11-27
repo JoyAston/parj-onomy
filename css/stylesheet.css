@@ -21,10 +21,8 @@ article {
 }
 
 p {
-  color:white;
   font-family: "helvetica";
-  font-size: 20px;
-
+  color: white;
 }
 
 .navbar-nav {
@@ -41,7 +39,25 @@ h1 {
   margin-top: 20px;
 }
 
+div#home {
+  color: white;
+  text-align: centre;
+  padding: 20px 0px 0px 0px;
+  margin: 20px 20px 20px 20px;
+}
+
 div#aboutus {
+  color: white;
   text-align: left;
   padding: 20px 0px 0px 20px;
+}
+
+.aboutus h2 {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.aboutus p {
+  font-size: 7px;
+  font-weight: normal;
 }
