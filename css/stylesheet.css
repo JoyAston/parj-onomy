@@ -32,3 +32,9 @@ p {
 
 body {
   background-color: black;
+}
+
+h1 {
+  color: white;
+  margin-top: 20px;
+}
