@@ -60,3 +60,7 @@ div#aboutus {
   font-size: 7px;
   font-weight: normal;
 }
+
+.btn.btn-dark {
+  color: pink;
+}
