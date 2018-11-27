@@ -23,6 +23,7 @@ article {
 p {
   font-family: "helvetica";
   color: white;
+  padding: 10px 0px 0px 20px;
 }
 
 div#navbarNav {
@@ -61,6 +62,6 @@ div#aboutus {
   font-weight: normal;
 }
 
-.btn.btn-dark {
+.btn.btn-outline-light {
   color: pink;
 }
