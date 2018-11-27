@@ -7,6 +7,11 @@ div#imageContainerHome {
   margin-left: 50px;
 }
 
+div#imageContainerSpaceCadets {
+  align-content: center;
+  padding-top: 20px;
+}
+
 header {
   margin: 20px 20px 0px 0px;
 }
@@ -38,6 +43,7 @@ body {
 }
 
 h1 {
+  text-align: center;
   color: white;
   margin: 10px 10px 10px 10px;
 }
@@ -55,12 +61,12 @@ div#aboutus {
   padding: 10px 10px 10px 10px;
 }
 
-.aboutus h2 {
+.aboutus.h2 {
   font-size: 10px;
   font-weight: bold;
 }
 
-.aboutus p {
+.aboutus.p {
   font-size: 7px;
   font-weight: normal;
 }
