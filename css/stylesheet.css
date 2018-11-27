@@ -1,4 +1,8 @@
-div#imageContainerPlanets {
+a {
+  color: pink;
+}
+
+  div#imageContainerPlanets {
   align-content: center;
 }
 
