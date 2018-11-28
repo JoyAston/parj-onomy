@@ -12,7 +12,19 @@ div#imageContainerHome {
 }
 
 div#imageContainerSpaceCadets {
-  align-content: center;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    margin-left: 40;
+    margin-top: 20;
+}
+
+div#imageContainerSpaceCadets2 {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    margin-right: 40;
+    margin-top: 20;
 }
 
 header {
