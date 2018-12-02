@@ -122,3 +122,7 @@ input[type="submit"] {
       font-size: 14px;
       padding: 4px
     }
+  div#educationcard {
+    width: 30px;
+    height: 80px;
+  }
