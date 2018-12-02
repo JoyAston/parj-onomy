@@ -113,3 +113,12 @@ div#education {
   text-align: center;
   font-family: arial;
 }
+input[type="submit"] {
+      background: #F19;
+    }
+    input {
+      color: white;
+      font-family: helvetica;
+      font-size: 14px;
+      padding: 4px
+    }
