@@ -28,7 +28,6 @@ div#imageContainerSpaceCadets {
     margin-left: 40;
     margin-top: 20;
 }
-
 div#imageContainerSpaceCadets2 {
     position: -webkit-sticky;
     position: sticky;
@@ -108,4 +107,9 @@ div#spacenews {
 
 h2 {
   padding: 10px 10px 10px 10px
+}
+div#education {
+  color: white;
+  text-align: center;
+  font-family: arial;
 }
