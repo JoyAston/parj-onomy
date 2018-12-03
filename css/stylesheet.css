@@ -63,7 +63,7 @@ body {
 .spacenews {
   padding: 0px 20px 0px 20px;
   max-width: 700px;
-  height: 1000px;
+  height: 1350px;
   background-color: rgba(10, 15, 25, 0.5);
 }
 .partners {
@@ -177,8 +177,3 @@ input[type="submit"] {
     color: white;
     font-size: 20px;
   }
-
-.twitter-timeline {
-  width: 150px;
-  height: 500px;
-}
