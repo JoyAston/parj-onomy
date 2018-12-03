@@ -18,6 +18,7 @@ div#imageContainerPlanets {
 }
 
 div#imageContainerHome {
+  padding-top: 50px;
   align-content: center;
   margin-left: 50px;
 }
@@ -53,9 +54,16 @@ body {
 }
 
 .homepage {
+  padding: 0px 0px 0px 0px;
+  max-width: 700px;
+  height: 980px;
+  background-color: rgba(10, 15, 25, 0.5);
+}
+
+.partners {
   padding: 0px 10px 0px 10px;
   max-width: 700px;
-  height: 1000px;
+  height: 825px;
   background-color: rgba(10, 15, 25, 0.5);
 }
 
