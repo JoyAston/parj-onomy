@@ -164,13 +164,13 @@ div#educationtitle {
   margin: 30px 10px 30px 10px;
 }
 
-div#education {
+/* div#education {
   color: white;
   text-align: center;
   margin: 30px 60px 30px 30px;
   column-count: 3;
   column-gap: 100px;
-}
+} */
 
 input[type="submit"] {
       background: #F19;
