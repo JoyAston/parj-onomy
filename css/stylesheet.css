@@ -1,8 +1,3 @@
-body, html {
-  cursor: url(./shuttle.ico), cursor;
-  height: 100%;
-}
-
 .d-block {
   width:1920px;
   height:825px;
@@ -108,11 +103,25 @@ div#spacenews {
 h2 {
   padding: 10px 10px 10px 10px
 }
+
+div#partners {
+  color: white;
+  font-size: 20px;
+}
+
+div#educationtitle {
+  color: white;
+  margin: 30px 10px 30px 10px;
+}
+
 div#education {
   color: white;
   text-align: center;
-  font-family: arial;
+  margin: 30px 10px 30px 10px;
+  column-count: 3;
+  column-gap: 300px;
 }
+
 input[type="submit"] {
       background: #F19;
     }
@@ -122,7 +131,13 @@ input[type="submit"] {
       font-size: 14px;
       padding: 4px
     }
-  div#educationcard {
+
+.educationcard {
     width: 30px;
     height: 80px;
+  }
+
+  h5 {
+    color: white;
+    font-size: 20px;
   }
