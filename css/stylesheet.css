@@ -54,12 +54,18 @@ body {
 }
 
 .homepage {
-  padding: 0px 0px 0px 0px;
+  padding: 0px 20px 0px 20px;
   max-width: 700px;
-  height: 980px;
+  height: 1080px;
   background-color: rgba(10, 15, 25, 0.5);
 }
 
+.spacenews {
+  padding: 0px 20px 0px 20px;
+  max-width: 700px;
+  height: 1000px;
+  background-color: rgba(10, 15, 25, 0.5);
+}
 .partners {
   padding: 0px 10px 0px 10px;
   max-width: 700px;
@@ -171,3 +177,8 @@ input[type="submit"] {
     color: white;
     font-size: 20px;
   }
+
+.twitter-timeline {
+  width: 150px;
+  height: 500px;
+}
