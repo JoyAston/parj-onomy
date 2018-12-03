@@ -75,7 +75,7 @@ body {
 }
 
 .follow {
-  padding: 0px 10px 0px 10px;
+  padding: 20px 10px 0px 10px;
   max-width: 700px;
   height: 825px;
   background-color: rgba(10, 15, 25, 0.5);
@@ -120,8 +120,7 @@ div#home {
 
 div#follow {
   color: white;
-  text-align: centre;
-  padding: 20px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
   margin: 20px 20px 20px 20px;
 }
 
@@ -199,7 +198,4 @@ input[type="submit"] {
   height: 825px;
   background-color: rgba(10, 15, 25, 0.5);
   color: white;
-}
-.twitter-follow-button {
-  width: 100%;
 }
