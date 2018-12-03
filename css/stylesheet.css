@@ -178,3 +178,14 @@ input[type="submit"] {
     color: white;
     font-size: 20px;
   }
+
+.contactpage {
+  padding: 20px 10px 0px 10px;
+  max-width: 700px;
+  height: 825px;
+  background-color: rgba(10, 15, 25, 0.5);
+}
+
+.type {
+  color: white;
+}
