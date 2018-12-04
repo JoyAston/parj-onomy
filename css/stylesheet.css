@@ -164,14 +164,6 @@ div#educationtitle {
   margin: 30px 10px 30px 10px;
 }
 
-/* div#education {
-  color: white;
-  text-align: center;
-  margin: 30px 60px 30px 30px;
-  column-count: 3;
-  column-gap: 100px;
-} */
-
 input[type="submit"] {
       background: #F19;
     }
@@ -181,11 +173,6 @@ input[type="submit"] {
       font-size: 14px;
       padding: 4px
     }
-
-.educationcard {
-    width: 30px;
-    height: 80px;
-  }
 
   h5 {
     color: white;
@@ -198,4 +185,12 @@ input[type="submit"] {
   height: 825px;
   background-color: rgba(10, 15, 25, 0.5);
   color: white;
+}
+
+.card-body {
+  background-color: rgba(10,15,25,1);
+}
+
+.card-img-top {
+  background-color: rgba(10,15,25,1);
 }
