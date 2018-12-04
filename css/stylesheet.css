@@ -182,10 +182,10 @@ input[type="submit"] {
       padding: 4px
     }
 
-.educationcard {
+/* .educationcard {
     width: 30px;
     height: 80px;
-  }
+  } */
 
   h5 {
     color: white;
@@ -198,4 +198,16 @@ input[type="submit"] {
   height: 825px;
   background-color: rgba(10, 15, 25, 0.5);
   color: white;
+}
+
+.col-md-4 {
+  background-color: black;
+}
+
+.card-body {
+  background-color: black;
+}
+
+.card-img-top {
+  background-color: black;
 }
