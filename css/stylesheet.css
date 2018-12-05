@@ -81,6 +81,10 @@ body {
   background-color: rgba(10, 15, 25, 0.5);
 }
 
+iframe {
+  height: calc(100vh - 56px);
+}
+
 article {
   max-width: 700px;
   height: 2450px;
