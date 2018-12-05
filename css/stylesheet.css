@@ -164,6 +164,10 @@ div#educationtitle {
   margin: 30px 10px 30px 10px;
 }
 
+div#educationemail {
+  margin-left: 220px;
+}
+
 input[type="submit"] {
       background: #F19;
     }
