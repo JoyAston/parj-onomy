@@ -93,7 +93,6 @@ article {
   padding: 10px 10px 10px 10px;
 }
 
-
 p {
   font-family: "helvetica";
   color: white;
@@ -207,4 +206,8 @@ input[type="submit"] {
 }
 .dropdown-item {
   color: pink;
+}
+button.btn.btn-secondary.dropdown-toggle {
+  color: pink;
+  background-color: grey;
 }
