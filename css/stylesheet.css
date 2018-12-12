@@ -3,6 +3,7 @@
   height:825px;
 }
 
+
 a {
   color: pink;
 }
@@ -59,7 +60,7 @@ body {
 .homepage {
   padding: 0px 20px 0px 20px;
   max-width: 700px;
-  height: 1080px;
+  height: 1100px;
   background-color: rgba(10, 15, 25, 0.5);
 }
 
@@ -212,4 +213,11 @@ input[type="submit"] {
 button.btn.btn-secondary.dropdown-toggle {
   color: pink;
   background-color: grey;
+}
+
+.btn.btn-outline-dark {
+  padding: 20px 20px 20px 20px;
+}
+.sharethis-inline-follow-buttons {
+  margin: 10px 0px 0px 0px;
 }
