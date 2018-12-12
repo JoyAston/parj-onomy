@@ -6,7 +6,9 @@
 a {
   color: pink;
 }
-
+.input {
+  color: black;
+}
 div#imageWomen {
     border-radius: 20%;W
   align-content: center;
